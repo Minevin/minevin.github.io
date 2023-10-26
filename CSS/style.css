@@ -49,7 +49,7 @@ header h1{
 aside img{
     width: 55%;
     margin-top: 10px;
-    margin-left: 2rem;
+    margin-left: 1rem;
 }
 
 li div{
@@ -75,7 +75,7 @@ h2, h3{
 }
 
 aside p, aside h4{
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 .last{
     margin-bottom: 30%;
