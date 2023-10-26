@@ -29,9 +29,7 @@ nav ul{
         height: 3rem;
 
 }
-img{
-height: 40%;
-}
+
 main{
     grid-area: main;
     border-top: 1px solid black;
@@ -49,7 +47,7 @@ header h1{
                                                 
 }
 aside img{
-    width: auto;
+    width: 55%;
     margin-top: 10px;
     margin-left: 2rem;
 }
